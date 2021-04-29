@@ -95,7 +95,7 @@ func raidBot() {
 }
 func webhookSpammer() {
 	color.Yellow("--------------------------------")
-	color.Red("WebHook v6.66")
+	color.Red("WebHook b1")
 	color.Yellow("--------------------------------")
 	color.Red("Introduce la dirección URL del Webhook:")
 	_, _ = fmt.Scanln(&webhook)
